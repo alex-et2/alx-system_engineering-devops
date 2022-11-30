@@ -1,2 +1,2 @@
 #!/bin/bash Hidden files
-ls -la
+ls -a
