@@ -1,2 +1,2 @@
-#!/bin/bash Hidden files
+#!/bin/bash
 ls -a
